@@ -1,19 +1,58 @@
-# Brazil City State Finder
+# Welcome to My GitHub Profile!
 
-Welcome to the Brazil City State Finder project!
+## 👋 Hello, I'm Lucas Silva!
 
-## Overview
+I'm a passionate and driven web developer currently on a journey to master programming. With 2 months of continuous learning and hands-on experience, I've developed skills in various areas of programming, including web development and more.
 
-This project is a simple web application that helps users find the state of any city in Brazil. As a beginner in programming, I'm continuously improving this project to ensure it provides accurate results. 
+## 🛠️ Skills & Technologies
 
-## Features
+- **Languages**: 
+  - Java
+  - Python
+  - HTML
+  - CSS
 
-- **City Lookup**: Users can enter the name of any city in Brazil and find out which state it belongs to.
-- **Interactive Map**: The application includes an image of the map of Brazil with its states to provide a visual reference.
+- **Frameworks & Libraries**:
+  - Django (Python)
+  - Bootstrap (CSS)
 
-## Current Status
+- **Tools & Platforms**:
+  - Git & GitHub
+  - Visual Studio Code
+  - VS Code
 
-This project is still under development. The goal is to make it fully accurate and user-friendly. I plan to:
-- Add a detailed map of Brazil with state boundaries.
-- Implement more accurate city-to-state matching.
-- Possibly integrate an API or use AI to enhance the city's lookup functionality.
+- **Other Areas**:
+  - Web Development
+  - JavaScript (Basic)
+  - APIs & RESTful Services
+  - Basic knowledge of AI and Chatbots
+
+## 📈 Current Projects
+
+- **City-State Finder**: A web app that helps users identify the state of any Brazilian city. Currently working on improving accuracy and considering integration with APIs or AI for enhanced functionality.
+
+- **Personal Portfolio**: Developing a portfolio site to showcase my projects, skills, and growth as a developer.
+
+## 🎓 Learning Journey
+
+I've been immersing myself in programming for the past 2 months, focusing on building a strong foundation in web development and expanding my skill set in various programming languages and tools. My goal is to continuously learn and grow, tackling new challenges and contributing to meaningful projects.
+
+## 🚀 Future Goals
+
+- **Expand Knowledge**: Dive deeper into JavaScript and frameworks like React or Angular.
+- **API Integration**: Gain more experience integrating and working with APIs.
+- **Contribute to Open Source**: Start contributing to open source projects and collaborating with the developer community.
+
+## 📫 Connect with Me
+
+- **LinkedIn**:
+- Lucas Silva on LinkedIn: https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+
+-  **Email**:
+ - lucas.code.silva@gmail.com 
+
+Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
+
+---
+
+Thank you for visiting my profile. I'm excited about the journey ahead and eager to continue learning and growing in the world of programming!
